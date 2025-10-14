@@ -111,8 +111,8 @@ A university social network built with an Apple-style design, enabling students 
 ---
 
 ## 📊 GitHub Stats
-![Pasquale's GitHub stats](https://github-readme-stats.vercel.app/api?username=PasqualeScognamiglio&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasqualeScognamiglio&layout=compact&theme=tokyonight)
+![Pasquale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paskineitor&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paskineitor&layout=compact&theme=tokyonight)
 
 ---
 
